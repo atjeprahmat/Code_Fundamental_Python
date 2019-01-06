@@ -1,0 +1,8 @@
+print('Selamat Datang')
+print("Selamat Datang")
+print('Selamat Datang')
+print("Selamat Datang")
+print('Selamat Datang')
+print("Selamat Datang")
+print('Selamat Datang')
+print("Selamat Datang")
